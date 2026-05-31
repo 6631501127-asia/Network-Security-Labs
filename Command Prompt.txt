@@ -1,0 +1,59 @@
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Lab316
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (17) I219-LM
+   Physical Address. . . . . . . . . : 04-7C-16-FB-CE-EB
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8a2b:a01a:4192:b03a%3(Preferred)
+   IPv4 Address. . . . . . . . . . . : 172.28.146.27(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 29 เมษายน 2569 12:50:04
+   Lease Expires . . . . . . . . . . : 30 เมษายน 2569 12:50:06
+   Default Gateway . . . . . . . . . : 172.28.146.1
+   DHCP Server . . . . . . . . . . . : 172.30.99.5
+   DHCPv6 IAID . . . . . . . . . . . : 419724310
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-30-C9-4F-DE-04-7C-16-FB-CE-EB
+   DNS Servers . . . . . . . . . . . : 192.168.1.5
+                                       192.168.1.6
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::b08f:91cb:1f88:1f5d%15(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.5.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 151015510
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-30-C9-4F-DE-04-7C-16-FB-CE-EB
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6bac:5157:e983:9d46%8(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.231.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+   DHCPv6 IAID . . . . . . . . . . . : 385896534
+   DHCPv6 Client DUID. . . . . . . . : 00-01-01-00-30-C9-4F-DE-04-7C-16-FB-CE-EB
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\LAB>
