@@ -23,7 +23,8 @@ Key Concepts: Security Levels, NAT/PAT, Access Control Lists (ACLs), DMZ Network
 เพื่อให้มั่นใจว่านโยบายความปลอดภัยทำงานได้ถูกต้องตามการออกแบบ ได้มีการทดสอบดังนี้:
 Running Configuration: ตรวจสอบคำสั่งการตั้งค่าทั้งหมดผ่านไฟล์ show running.txt เพื่อยืนยันความถูกต้องของระบบ
 Connectivity Testing: ตรวจสอบการเชื่อมต่อและการกำหนด IP Address จากฝั่ง Client ผ่าน Command Prompt
-End-to-End Verification: บันทึกผลการทดสอบการสื่อสารข้ามโซน (Inside -> Outside, Outside -> DMZ) เพื่อยืนยันว่ากฎของไฟร์วอลล์ทำงานอย่างสมบูรณ์
+End-to-End Verification: บันทึกผลการทดสอบการสื่อสารข้ามโซน (Inside -> Outside, Outside -> DMZ) 
+เพื่อยืนยันว่ากฎของไฟร์วอลล์ทำงานอย่างสมบูรณ์
 
 ไฟล์ที่เกี่ยวข้องในโปรเจกต์นี้
 NAT-Policy-FW_6631501127.pdf — รายงานสรุปผลการทดลอง
